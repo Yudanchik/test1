@@ -4,6 +4,12 @@ function read() {
    */
 }
 console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+console.log('hello');
+
 function solve() {
   /**
    * Принимает игровое поле в том формате, в котором его вернули из функции read.
